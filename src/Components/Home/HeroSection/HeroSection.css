@@ -1,6 +1,7 @@
 .hero-section{
     /* background-color: #7419E7; */
     background: url(../../../images/hero-bg.png);
+    object-fit: cover;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
